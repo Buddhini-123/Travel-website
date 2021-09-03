@@ -1,3 +1,22 @@
+http://127.0.0.1:8000
+from this, it navigates to the main page.
+From the main page, by clicking on the register in the navigation bar guest user can register into the system by giving details.
+By clicking on the login in the navigation bar registered users can log in to the system.
+After login, the user can create the blog.
+There is a link to view created blogs and there it directs to a page that contains the blogs.
+So users can update and delete the details.
+On that page, there is a dropdown to log out to the user.
+There is a View Blog part in the navigation bar to view all the blog post which created by the user
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
